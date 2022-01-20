@@ -4,6 +4,10 @@
 
 class SerialClass {
 public:
+
+    void begin(int val) {
+
+    }
     void print(const char *msg) {
         std::cout << msg;
     }
