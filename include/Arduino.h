@@ -1,14 +1,11 @@
 #pragma once
 
 #include <string>
-#include <cstdint>
-#include <cmath>
 
+#include "Serial.h"
 #include "Wire.h"
 #include "api/Common.h"
 
-float radians(float degrees) {
-    return degrees * (M_PI / 180.0);
-}
+float radians(float degrees);
 
 using String = std::string;
