@@ -1,0 +1,25 @@
+{
+    "name": "ArduinoForNative",
+    "version": "1.0.0",
+    "description": "SmartFin Logging",
+    "keywords": "",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/JanSurft/ArduinoForNative.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Jan Hermes",
+        "email": "mail@hermes-technology.de",
+        "url": "http://www.hermes-technology.de"
+      }
+    ],
+    "license": "",
+    "homepage": "",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }

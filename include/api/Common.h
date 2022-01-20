@@ -1,0 +1,13 @@
+#pragma once
+
+enum PinStatus {
+    LOW = 0,
+    HIGH = 1
+};
+enum PinMode {
+    INPUT = 0,
+    INPUT_PULLUP = 1,
+    INPUT_PULLDOWN = 2,
+    OUTPUT = 3
+};
+using pin_size_t = uint8_t;
